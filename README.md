@@ -71,7 +71,6 @@
 │   └── agents/openai.yaml
 ├── AGENTS－任务复杂度门检片段.md
 ├── 01－直接交给AI的安装提示词.md
-├── 02－给朋友的简明使用说明.md
 ├── LICENSE
 └── README.md
 ```
