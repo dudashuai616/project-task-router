@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目任务规划与对话接力"
+  short_description: "自动判断任务复杂度并规划阶段、对话边界、正式交接和续接提示"
+  default_prompt: "使用 $project-task-router 判断这个任务是否需要拆分，并给出最省上下文的执行与交接方案。"
